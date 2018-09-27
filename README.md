@@ -16,7 +16,7 @@
 - **Back-End**
     - Spring
     - MySQL, Oracle, JPA Hibernate, MyBatis
-    - Hadoop, Spark, Zeppeln
+    - Hadoop, Spark, zeppelin
     - Ansible, Jenkins
     - Filebeat Logstash, Elastic Search
     - Zookeeper
