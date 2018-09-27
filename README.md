@@ -1,7 +1,6 @@
 # <center>**Resume**</center>
 ## Profile
 - **Name** : Kim Daseul
-- **address** : Suji-gu, Yongin-si, Gyeonggi-do, Republic of Korea
 - **email** : <daria0428@gmail.com>
 ----
 ## Work Experiences
@@ -13,20 +12,14 @@
 ----
 ## Technical Skills
 - **Front-End**
-    - HTML, CSS, JS
-    - JQuery
-    - AngularJS
-    - Thymeleaf
+    - JQuery, AngularJS, Thymeleaf
 - **Back-End**
-    - Spring Framework
-    - Jpa, Hibernate, Mybatis
-    - Oracle DB, Mysql DB
+    - Spring
+    - MySQL, Oracle, JPA Hibernate, MyBatis
     - Hadoop, Spark, Zeppeln
-    - Ansible
-    - Jenkins
+    - Ansible, Jenkins
+    - Filebeat Logstash, Elastic Search
     - Zookeeper
-    - Filebeat Logstash
-    - Elastic Search
 ---
 ## Project Experiences
 - 
